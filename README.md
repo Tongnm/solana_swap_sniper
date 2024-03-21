@@ -24,4 +24,5 @@ pip install -r requirements.txt
 6. gap_time        设置买入后多久时间卖出(int, 单位(秒))
 ```
 # 感谢您的捐赠！！！！！
-![微信图片_20240321040708](https://github.com/dev-cerber/solana_swap_sniper/assets/35053590/474f79b3-3f6f-453e-986b-f44c2f9015b5)
+![微信图片_20240321134215](https://github.com/dev-cerber/solana_swap_sniper/assets/35053590/24b5d66b-1643-4e93-8364-1f76fa752f28)
+
